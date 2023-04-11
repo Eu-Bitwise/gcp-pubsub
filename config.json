@@ -1,0 +1,6 @@
+{
+    "project_id": "your-google-cloud-project-id",
+    "topic_id": "your-topic-name",
+    "subscription_id": "your-subscription-name",
+    "key_file_path": "path/to/your/service-acount-key/json"
+}
