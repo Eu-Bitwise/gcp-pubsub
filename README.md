@@ -15,7 +15,9 @@ This project demonstrates the basic usage of Google Cloud Pub/Sub with a simple 
 `pip install google-cloud-pubsub google-auth google-auth-transport-requests`
 
 2. Install the required Node.js packages:
+`cd app`
 `npm install`
+
 
 3. Update the config.json file with your Google Cloud project information and the path to your service account key JSON file.
 
